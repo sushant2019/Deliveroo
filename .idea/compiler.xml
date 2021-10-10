@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Deliveroo" target="8" />
+      <module name="Deliveroo" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
