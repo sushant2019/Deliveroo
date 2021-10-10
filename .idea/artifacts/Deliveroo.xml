@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" build-on-make="true" name="Deliveroo">
+    <output-path>$PROJECT_DIR$/out/artifacts/Deliveroo</output-path>
+    <root id="root">
+      <element id="archive" name="Deliveroo.jar">
+        <element id="module-output" name="Deliveroo" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
