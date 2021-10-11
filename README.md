@@ -80,6 +80,8 @@ Deliveroo/out/artifacts/Deliveroo/Deliveroo-1.0.dmg`
 ## Main Code Files
 
 ---
+The code can be accessed at the git repo: https://github.com/sushant2019/Deliveroo.git
+
 1. **Cron.java** - The Class that implements the parsing logic to parse the cron string command.
-2. **Crontab.java** - The Class that contains the **main** function, the entry point of the application, that accepts the cron string and used Cron class to parse and print the result.
+2. **Crontab.java** - The Class that contains the **main** function, the entry point of the application, that accepts the cron string and uses the Cron class to parse and print the result.
 3. **CronTest.java** - The Cron class's JUnit tests file, that covers 100% methods and 100% lines of code.
