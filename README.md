@@ -1,7 +1,6 @@
 # Deliveroo Technical Task
 ## CronInfo - A command-line utility
 
----
 This utility program prints the details of a basic standard **cron** command string. An example is shown below:
 
 ```
@@ -16,7 +15,6 @@ command       /usr/bin/find
 
 ## Steps to use CronInfo on Mac/Linux
 
----
 ### Method 1
 
 1. Clone this repo:
@@ -79,7 +77,6 @@ Deliveroo/out/artifacts/Deliveroo/Deliveroo-1.0.dmg`
 
 ## Main Code Files
 
----
 The code can be accessed at the git repo: https://github.com/sushant2019/Deliveroo.git
 
 1. **Cron.java** - The Class that implements the parsing logic to parse the cron string command.
